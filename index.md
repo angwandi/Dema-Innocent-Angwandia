@@ -15,7 +15,7 @@ All these projects have been reviewed by Google/Udacity Android Apps Professiona
 
 Screen 01 | Screen 02
 --------- | ---------
-![resized2](https://user-images.githubusercontent.com/31923567/42062333-330a5420-7b25-11e8-9413-91b0ce3312bf.png) |![screener_1530085308113_sized](https://user-images.githubusercontent.com/31923567/42062339-34da7d0c-7b25-11e8-86e1-57bcd15af7b5.png) 
+![s500](https://user-images.githubusercontent.com/31923567/42063214-8ea4cd9e-7b28-11e8-8876-a65289d06e15.png) |![s501](https://user-images.githubusercontent.com/31923567/42063217-90a26bb0-7b28-11e8-95bf-982d2f84d809.png)
 
 
 
