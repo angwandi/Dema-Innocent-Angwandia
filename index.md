@@ -2,7 +2,7 @@
 
 Check **2ms** on Google Play (Coming Soon)
 
-## Android Basics Nanodegree projects(Schorlarshi by Google/Udacity)
+## Android Basics Nanodegree projects(Schorlarship by Google/Udacity)
 
 All these projects have been reviewed by Google/Udacity Android Apps Professionals.
 
