@@ -6,7 +6,7 @@ Check **2ms** on Google Play (Coming Soon)
 
 All these projects have been reviewed by Google/Udacity Android Apps Professionals.
 
-### 1. Project 07 : http://github.com - automatic![Inventory App Stage 2](http://github.com) 
+### 1. Project 07 : [Inventory App Stage 2](http://github.com) 
 
 #### Learnings: 
 
