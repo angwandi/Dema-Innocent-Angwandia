@@ -13,10 +13,6 @@ All these projects have been reviewed by Google/Udacity Android Apps Professiona
 * Updating information based on user input
 * Creating intents to other apps using stored information
 
-First Header | Second
------------- | ------
-Content provider | Contents
-
 #### [Demo Video](https://www.youtube.com/watch?v=JlT3Z2kI5RE&t=4s)
 #### Screenshot :
 
