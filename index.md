@@ -40,12 +40,6 @@ Screen 01 | Screen 02
 
 Screen 01 | Screen 02
 --------- | ---------
-![screener_1526858810227](https://user-images.githubusercontent.com/31923567/40304949-70e5e546-5cf0-11e8-830e-624f13edf50e.png)
-|![screener_1526858958765](https://user-images.githubusercontent.com/31923567/40304959-782a9f2c-5cf0-11e8-8a47-e5c12976fc5d.png)
-
-
-
-
-
+![scr500](https://user-images.githubusercontent.com/31923567/42414621-9e437e62-8230-11e8-91b0-180baa141231.png)|![scr502](https://user-images.githubusercontent.com/31923567/42414624-a28d6dd4-8230-11e8-9c86-2b7a27937d16.png)
 
 
