@@ -24,6 +24,8 @@ Screen 01 | Screen 02
 --------- | ---------
 ![s500](https://user-images.githubusercontent.com/31923567/42063214-8ea4cd9e-7b28-11e8-8876-a65289d06e15.png) |![s501](https://user-images.githubusercontent.com/31923567/42063217-90a26bb0-7b28-11e8-95bf-982d2f84d809.png)
 
+> Made by 2ms
+
 ### 2. Project 06 : [NewsApp](https://github.com/angwandi/NewsAppABNSGU) 
 
 #### Learnings: 
@@ -31,6 +33,7 @@ Screen 01 | Screen 02
 * Launch a Settings Activity from a menu in the Main Activity
 * Use Uri.Builder class to add query parameters to the URL
 * Update and display the Preference Summary
+
 #### [Demo Video](https://www.youtube.com/watch?v=oA2RqZK7JZo&t=43s)
 
 #### Screenshots :
