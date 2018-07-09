@@ -6,7 +6,7 @@ Check **2ms** on Google Play (Coming Soon)
 
 All these projects have been reviewed by Google/Udacity Android Apps Professionals.
 
-### 1. Project 07 : [Inventory App](https://github.com/angwandi/Books) 
+### 1. Project 07 : [Inventory App (Database)](https://github.com/angwandi/Books) 
 
 #### Learnings: 
 * Creating a SQLite table in your app
@@ -30,7 +30,7 @@ Screen 01 | Screen 02
 
 > Made by 2ms
 
-### 2. Project 06 : [NewsApp](https://github.com/angwandi/NewsAppABNSGU) 
+### 2. Project 06 : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
 
 #### Learnings: 
 * Connecting to an API
