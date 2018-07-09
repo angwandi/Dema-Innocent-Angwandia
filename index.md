@@ -9,6 +9,10 @@ All these projects have been reviewed by Google/Udacity Android Apps Professiona
 ### 1. Project 07 : [Inventory App](https://github.com/angwandi/Books) 
 
 #### Learnings: 
+* Creating a SQLite table in your app
+* Populating that table with new entries
+* Modifying the entries
+* Displaying the contents of the table to users.
 * Storing information in a SQLite database
 * Integrating Android’s file storage systems into that database
 * Setting up a Content Provider and use it to access a repository of data
@@ -29,6 +33,12 @@ Screen 01 | Screen 02
 ### 2. Project 06 : [NewsApp](https://github.com/angwandi/NewsAppABNSGU) 
 
 #### Learnings: 
+* Connecting to an API
+* Parsing the JSON response
+* Handling error cases gracefully
+* Updating information regularly
+* Using an AsyncTask
+* Doing network operations independent of the Activity lifecycle
 * Implement the Preference Fragment
 * Launch a Settings Activity from a menu in the Main Activity
 * Use Uri.Builder class to add query parameters to the URL
