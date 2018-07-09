@@ -57,7 +57,7 @@ Screen 01 | Screen 02
 * Updating views
 * Properly scoping variables
 * Finding views by their ID
-* Handle configuration changes using **ViewModel**
+* Handle screen configuration changes using **ViewModel**
 
 #### [Demo Video](https://www.youtube.com/watch?v=UePwKT9s5Fk&feature=youtu.be)
 
