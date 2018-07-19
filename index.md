@@ -53,10 +53,11 @@ Buy clicked | Instock = 0 | More books | Details Screen | Plus Clicked | Minus C
 #### [Demo Video](https://www.youtube.com/watch?v=oA2RqZK7JZo&t=43s)
 
 #### Screenshots :
-
-Screen 01 | Screen 02
---------- | ---------
-![scr500](https://user-images.githubusercontent.com/31923567/42414621-9e437e62-8230-11e8-91b0-180baa141231.png)|![scr502](https://user-images.githubusercontent.com/31923567/42414624-a28d6dd4-8230-11e8-9c86-2b7a27937d16.png)
+Main Screen | Settings | Settings Screen | Preference
+:---------: | :------: | :-------------: | :--------: 
+<img src="images/na1.png" width="100"> | <img src="images/na2.png" width="100"> | <img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> | 
+Preference | MS/Preference | No Internet Screen | Empty Screen
+<img src="images/na5.png" width="100"> | <img src="images/na6.png" width="100"> | <img src="images/na7.png" width="100"> | <img src="images/na8.png" width="100"> 
 
 ### 3. Project 02 : [(Score Keeper App)](https://github.com/angwandi/ScoreKeeperABNSG) 
 
