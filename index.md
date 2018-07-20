@@ -54,7 +54,11 @@ Buy clicked | Instock = 0 | More books | Details Screen | Plus Clicked | Minus C
 
 #### Screenshots :
 
-
+Main Screen | Settings | Settings Screen | Preference 
+:---------: | :------: | :-------------: | :--------: 
+<img src="images/na1.png" width="100"> | <img src="images/na2.png" width="100"> | <img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> 
+Preference | MS/Preference | No Internet Screen | Empty Screen 
+<img src="images/na5.png" width="100"> | <img src="images/na6.png" width="100"> | <img src="images/na7.png" width="100"> | <img src="images/na8.png" width="100"> 
 
 ### 3. Project 02 : [(Score Keeper App)](https://github.com/angwandi/ScoreKeeperABNSG) 
 
