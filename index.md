@@ -26,17 +26,9 @@ All these projects have been reviewed by Google/Udacity Android Apps Professiona
 
 #### Screenshots :
 
-Main Screen | Settings  | Add a book | Validation | Validation | Book saved |  
-:---------: | :-------: | :---------: | :---------:| :---------:| :---------:| 
-<img src="images/screener_1530085045582.png" width="100"> | <img src="images/screener_1530085086286.png" width="100"> | <img src="images/screener_1530085118895.png" width="100"> | <img src="images/screener_1530085147843.png" width="100"> | <img src="images/screener_1530085180407.png" width="100"> | <img src="images/screener_1530085211440.png" width="100"> 
-
-Buy clicked | Instock = 0 | More books | Details Screen | Plus Clicked | Minus Clicked | 
-:----------:| :----------:| :---------:| :-------------:| :-----------:| :------------:|
-<img src="images/screener_1530085252670.png" width="100"> | <img src="images/screener_1530085278477.png" width="100"> | <img src="images/screener_1530085308113.png" width="100"> | <img src="images/screener_1530085333366.png" width="100"> | <img src="images/screener_1530085355113.png" width="100"> | <img src="images/screener_1530085377970.png" width="100">  
-
- Instock = 0 | Delete Clicked | Edit Screen | Validation | Back Pressed |
- :----------:| :-------------:| :----------:| :---------:| :-----------:|
-<img src="images/screener_1530085404561.png" width="100"> | <img src="images/screener_1530085428167.png" width="100"> | <img src="images/screener_1530085452086.png" width="100"> | <img src="images/screener_1530085502837.png" width="100"> | <img src="images/screener_1530085528466.png" width="100"> 
+Main Screen | Settings  | Add a book | Validation | 
+:---------: | :-------: | :---------: | :---------:
+<img src="images/screener_1530085045582.png" width="100"> | <img src="images/screener_1530085086286.png" width="100"> | <img src="images/screener_1530085118895.png" width="100"> | <img src="images/screener_1530085147843.png" width="100"> 
 
 ### 2. Project 06 : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
 
