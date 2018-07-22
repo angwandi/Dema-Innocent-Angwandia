@@ -26,9 +26,12 @@ All these projects have been reviewed by Google/Udacity Android Apps Professiona
 
 #### Screenshots :
 
-Main Screen | Settings  | Add a book | Validation | 
-:---------: | :-------: | :---------: | :---------:
-<img src="images/screener_1530085045582.png" width="100"> | <img src="images/screener_1530085086286.png" width="100"> | <img src="images/screener_1530085118895.png" width="100"> | <img src="images/screener_1530085147843.png" width="100"> 
+Main Screen | Settings  | 
+:---------: | :-------: | 
+<img src="images/screener_1530085045582.png" width="100"> | <img src="images/screener_1530085086286.png" width="100"> 
+Add a book | Validation | 
+:---------: | :---------:
+<img src="images/screener_1530085118895.png" width="100"> | <img src="images/screener_1530085147843.png" width="100"> 
 
 ### 2. Project 06 : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
 
@@ -50,9 +53,12 @@ Main Screen | Settings  | Add a book | Validation |
 
 #### Screenshots :
 
-Main Screen | Settings | Settings Screen | Preference |
-:---------: | :------: | :-------------: | :--------: |
-<img src="images/na1.png" width="100"> | <img src="images/na2.png" width="100"> | <img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> 
+Main Screen | Settings |
+:---------: | :------: | 
+<img src="images/na1.png" width="100"> | <img src="images/na2.png" width="100"> 
+ Settings Screen | Preference
+ :-------------: | :--------: 
+<img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> 
 
 ### 3. Project 02 : [(Score Keeper App)](https://github.com/angwandi/ScoreKeeperABNSG) 
 
