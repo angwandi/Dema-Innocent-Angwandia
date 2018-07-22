@@ -40,6 +40,8 @@ Buy clicked | Instock = 0 | More books | Details Screen | Plus Clicked | Minus C
 
 ### 2. Project 06 : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
 
+[<img src="images/google-play-badge.png" width="150">](https://play.google.com/store/apps/details?id=com.play1training.demad.newsapp)
+
 #### Learnings: 
 * Connecting to an API
 * Parsing the JSON response
