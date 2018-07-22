@@ -1,6 +1,8 @@
 ## Welcome to Innocent Dema's homepage!
 
-Check [Innocent Dema Angwandia](https://play.google.com/store/apps/developer?id=Innocent+Dema+Angwandia) on [<img src="images/google-play-badge.png" width="auto">](https://play.google.com/store/apps/developer?id=Innocent+Dema+Angwandia)
+Check [Innocent Dema Angwandia](https://play.google.com/store/apps/developer?id=Innocent+Dema+Angwandia) on
+
+[<img src="images/google-play-badge.png" width="150">](https://play.google.com/store/apps/developer?id=Innocent+Dema+Angwandia)
 
 ### [Android Basics Nanodegree projects(Schorlarship by Google/Udacity)](https://confirm.udacity.com/3XDREDPM)
 
