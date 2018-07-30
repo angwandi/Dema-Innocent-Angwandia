@@ -8,6 +8,8 @@ Check [Innocent Dema Angwandia](https://play.google.com/store/apps/developer?id=
 
 All these projects have been reviewed by Google/Udacity Android Apps Professionals.
 
+#
+
 ### 1. Project 07 & 08 : [Inventory App (Database)](https://github.com/angwandi/Books) 
 
 #### Learnings: 
@@ -31,6 +33,8 @@ Main Screen | Settings
 <img src="images/screener_1530085045582.png" width="100"> | <img src="images/screener_1530085086286.png" width="100"> 
 Add a book | Validation | 
 <img src="images/screener_1530085118895.png" width="100"> | <img src="images/screener_1530085147843.png" width="100"> 
+
+#
 
 ### 2. Project 06 (2 parts) : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
 
@@ -58,6 +62,8 @@ Main Screen | Settings
  Settings Screen | Preference
 <img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> 
 
+#
+
 ### 3. Project 05 : [(Tour Guide App)](https://github.com/angwandi/UxbridgeTourGuideAppABNSGU) 
 
 #### Learnings: 
@@ -81,7 +87,9 @@ RCV Detail Scr | App Bar
 :-------------:| :-----:
 <img src="images/tg4.png" width="100"> | <img src="images/tg5.png" width="100"> 
 
-### 3. Project 04 : [(Music Player Structure App)](https://github.com/angwandi/MusicalStructureAppABSNGU) 
+#
+
+### 4. Project 04 : [(Music Player Structure App)](https://github.com/angwandi/MusicalStructureAppABSNGU) 
 
 #### Learnings: 
 * Designing an app experience to achieve a certain goal
@@ -100,8 +108,9 @@ Screen 1 | Screen 1 | Screen 1
 Screen 1 | Screen 1 | Screen 1
 <img src="images/msa4.png" width="100"> | <img src="images/msa5.png" width="100"> | <img src="images/msa6.png" width="100">
 
+#
 
-### 3. Project 03 : [(Quiz App)](https://github.com/angwandi/QuizAppABNSGU) 
+### 5. Project 03 : [(Quiz App)](https://github.com/angwandi/QuizAppABNSGU) 
 
 #### Learnings: 
 * Planning your app design before coding.
@@ -118,7 +127,9 @@ Screen 1 | Screen 1 | Screen 1
 Screen 1 | Screen 1 | Screen 1
 <img src="images/qa4.png" width="100"> | <img src="images/qa5.png" width="100"> | <img src="images/qa6.png" width="100">
 
-### 3. Project 02 : [(Score Keeper App)](https://github.com/angwandi/ScoreKeeperABNSG) 
+#
+
+### 6. Project 02 : [(Score Keeper App)](https://github.com/angwandi/ScoreKeeperABNSG) 
 
 #### Learnings: 
 * Adding button code to your app
@@ -135,7 +146,9 @@ Main Screen | Points Added | Screen Config.
 :----------:| :-----------:| :------------:
 <img src="images/sc1.png" width="100"> | <img src="images/sc2.png" width="100"> | <img src="images/sc3.png" width="100">
 
-### 4. Project 01 : [(Single Screen App)](https://github.com/angwandi/SingleScreenApp) 
+#
+
+### 7. Project 01 : [(Single Screen App)](https://github.com/angwandi/SingleScreenApp) 
 
 #### Project Overview
 Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
@@ -157,10 +170,10 @@ Design must include:
 #### Screenshots :
 
 ScreenShot 01 | ScreenShot 02| ScreenShot 03
-:----------:| :-----------:| :------------:
+:------------:| :-----------:| :-----------:
 <img src="images/ss1.png" width="100"> | <img src="images/ss2.png" width="100"> | <img src="images/ss3.png" width="100">
 
-
+#
 
 > Made by 2ms
 
