@@ -67,7 +67,7 @@ Main Screen | Settings
 * Navigating between lists in Fragments using either a ViewPager plus TabLayout or Navigation Drawer*
 * Creating your own custom classes
 * Properly handling images or audio (if applicable)
-  * **Navigation** Drawers were not covered in this course, but you may choose to implement it in this app.
+  * **Navigation Drawers** were not covered in this course, but you may choose to implement it in this app.
 
 #### [Demo Video](https://www.youtube.com/watch?v=MNp5X1No4Ts&t=25s)
 
