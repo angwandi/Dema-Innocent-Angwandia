@@ -71,9 +71,9 @@ Main Screen | Settings
 
 #### Screenshots :
 
-Screen 1 | Screen 2 | Screen 3 
----------| ---------| --------
-<img src="images/sc1.png" width="100"> |
+Main Screen | Points Added | Screen Config.
+:----------:| :-----------:| :------------:
+<img src="images/sc1.png" width="100"> | <img src="images/sc2.png" width="100"> | <img src="images/sc3.png" width="100">
 
 > Made by 2ms
 
