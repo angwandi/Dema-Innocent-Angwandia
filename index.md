@@ -75,7 +75,7 @@ Main Screen | Points Added | Screen Config.
 :----------:| :-----------:| :------------:
 <img src="images/sc1.png" width="100"> | <img src="images/sc2.png" width="100"> | <img src="images/sc3.png" width="100">
 
-### 4. Project 02 : [(Single Screen App)](https://github.com/angwandi/SingleScreenApp) 
+### 4. Project 01 : [(Single Screen App)](https://github.com/angwandi/SingleScreenApp) 
 
 #### Project Overview
 Design and implement a single screen app that displays information about a fictional small business. Think along the lines of your favorite coffeeshop, local restaurant, or that gem of a store that sells those rare comic books or records.
