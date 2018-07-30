@@ -8,7 +8,7 @@ Check [Innocent Dema Angwandia](https://play.google.com/store/apps/developer?id=
 
 All these projects have been reviewed by Google/Udacity Android Apps Professionals.
 
-### 1. Project 07 : [Inventory App (Database)](https://github.com/angwandi/Books) 
+### 1. Project 07 & 08 : [Inventory App (Database)](https://github.com/angwandi/Books) 
 
 #### Learnings: 
 * Creating a SQLite table in your app
@@ -32,7 +32,7 @@ Main Screen | Settings
 Add a book | Validation | 
 <img src="images/screener_1530085118895.png" width="100"> | <img src="images/screener_1530085147843.png" width="100"> 
 
-### 2. Project 06 : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
+### 2. Project 05 & 06 : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
 
 [<img src="images/google-play-badge.png" width="150">](https://play.google.com/store/apps/details?id=com.play1training.demad.newsapp)
 
