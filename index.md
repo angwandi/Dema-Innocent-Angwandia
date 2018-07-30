@@ -32,7 +32,7 @@ Main Screen | Settings
 Add a book | Validation | 
 <img src="images/screener_1530085118895.png" width="100"> | <img src="images/screener_1530085147843.png" width="100"> 
 
-### 2. Project 05 & 06 : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
+### 2. Project 06 (2 parts) : [NewsApp (Networking)](https://github.com/angwandi/NewsAppABNSGU) 
 
 [<img src="images/google-play-badge.png" width="150">](https://play.google.com/store/apps/details?id=com.play1training.demad.newsapp)
 
@@ -58,7 +58,7 @@ Main Screen | Settings
  Settings Screen | Preference
 <img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> 
 
-### 3. Project 04 : [(Tour Guide App)](https://github.com/angwandi/UxbridgeTourGuideAppABNSGU) 
+### 3. Project 05 : [(Tour Guide App)](https://github.com/angwandi/UxbridgeTourGuideAppABNSGU) 
 
 #### Learnings: 
 * Planning your app design and navigation before coding
@@ -80,6 +80,26 @@ Nav Drawer | ND Dtl Scr | RecyclerView
 RCV Detail Scr | App Bar
 :-------------:| :-----:
 <img src="images/tg4.png" width="100"> | <img src="images/tg5.png" width="100"> 
+
+### 3. Project 04 : [(Music Player Structure App)](https://github.com/angwandi/MusicalStructureAppABSNGU) 
+
+#### Learnings: 
+* Designing an app experience to achieve a certain goal
+* Creating new activities
+* Using explicit Intents to link between activities in your app
+* Using OnClickListeners to add behavior to buttons using Java code.
+* Creating your own Custom Class
+* Looping through an ArrayList
+* Populating a ListView or GridView with an ArrayAdapter
+
+#### Screenshots :
+
+Screen 1 | Screen 1 | Screen 1
+:-------:| :-------:| :------:
+<img src="images/msa1.png" width="100"> | <img src="images/msa2.png" width="100"> | <img src="images/msa3.png" width="100">
+Screen 1 | Screen 1 | Screen 1
+<img src="images/msa4.png" width="100"> | <img src="images/msa5.png" width="100"> | <img src="images/msa6.png" width="100">
+
 
 ### 3. Project 03 : [(Quiz App)](https://github.com/angwandi/QuizAppABNSGU) 
 
