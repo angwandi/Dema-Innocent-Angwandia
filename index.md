@@ -58,6 +58,27 @@ Main Screen | Settings
  Settings Screen | Preference
 <img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> 
 
+### 3. Project 04 : [(Tour Guide App)](https://github.com/angwandi/UxbridgeTourGuideAppABNSGU) 
+
+#### Learnings: 
+* Planning your app design and navigation before coding
+* Selecting proper data structures to store lists of information
+* Building layouts to display those lists of data
+* Navigating between lists in Fragments using either a ViewPager plus TabLayout or Navigation Drawer*
+* Creating your own custom classes
+* Properly handling images or audio (if applicable)
+  * **Navigation** Drawers were not covered in this course, but you may choose to implement it in this app.
+
+#### [Demo Video](https://www.youtube.com/watch?v=MNp5X1No4Ts&t=25s)
+
+#### Screenshots :
+
+Nav Drawer | ND Dtl Scr | RecyclerView
+:-------:| :-------:| :------:
+<img src="images/tg1.png" width="100"> | <img src="images/tg2.png" width="100"> | <img src="images/tg3.png" width="100">
+RCV Detail Scr | App Bar
+<img src="images/tg4.png" width="100"> | <img src="images/tg5.png" width="100"> 
+
 ### 3. Project 03 : [(Quiz App)](https://github.com/angwandi/QuizAppABNSGU) 
 
 #### Learnings: 
