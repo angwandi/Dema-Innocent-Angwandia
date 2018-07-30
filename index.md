@@ -76,7 +76,9 @@ Main Screen | Settings
 Nav Drawer | ND Dtl Scr | RecyclerView
 :-------:| :-------:| :------:
 <img src="images/tg1.png" width="100"> | <img src="images/tg2.png" width="100"> | <img src="images/tg3.png" width="100">
+
 RCV Detail Scr | App Bar
+:-------------:| :-----:
 <img src="images/tg4.png" width="100"> | <img src="images/tg5.png" width="100"> 
 
 ### 3. Project 03 : [(Quiz App)](https://github.com/angwandi/QuizAppABNSGU) 
