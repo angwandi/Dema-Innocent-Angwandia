@@ -58,6 +58,23 @@ Main Screen | Settings
  Settings Screen | Preference
 <img src="images/na3.png" width="100"> | <img src="images/na4.png" width="100"> 
 
+### 3. Project 03 : [(Quiz App)](https://github.com/angwandi/QuizAppABNSGU) 
+
+#### Learnings: 
+* Planning your app design before coding.
+* Taking an app layout from drawing to XML code.
+* Creating, positioning, and styling views.
+* Creating interactivity through button clicks and Java code.
+* Commenting and documenting your code.
+
+#### Screenshots :
+
+Screen 1 | Screen 1 | Screen 1
+:-------:| :-------:| :------:
+<img src="images/qa1.png" width="100"> | <img src="images/qa2.png" width="100"> | <img src="images/qa3.png" width="100">
+Screen 1 | Screen 1 | Screen 1
+<img src="images/qa4.png" width="100"> | <img src="images/qa5.png" width="100"> | <img src="images/qa6.png" width="100">
+
 ### 3. Project 02 : [(Score Keeper App)](https://github.com/angwandi/ScoreKeeperABNSG) 
 
 #### Learnings: 
@@ -91,6 +108,8 @@ Design must include:
   * Address of the Business
   * Description of business
   * Hours of operation
+  
+#### [Demo Video](https://www.youtube.com/watch?v=EwJONpZgb9E)
 
 #### Screenshots :
 
