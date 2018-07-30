@@ -71,11 +71,9 @@ Main Screen | Settings
 
 #### Screenshots :
 
-Screen 1 | Screen 2
------------- | -------------
-<img src="images/screener_555.png" width="50"> | ![](images/screener_5.png)
-Screen 3 | Screen 4
-![](images/screener_555.png) | ![](images/screener_555.png)
+Screen 1 | Screen 2 | Screen 3 
+---------| ---------| --------
+<img src="images/sc1.png" width="100"> |
 
 > Made by 2ms
 
