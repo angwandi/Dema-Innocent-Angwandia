@@ -1,8 +1,18 @@
 ## Welcome to Innocent Dema's homepage!
 
-Check [Innocent Dema Angwandia](https://play.google.com/store/apps/developer?id=2ms+Inc) on
 
-[<img src="images/google-play-badge.png" width="150">](https://play.google.com/store/apps/developer?id=2ms+Inc)
+## Tech Stack
+### Frontend:
+* Flutter for Android and iOS (All flutter supported plarforms)
+* Android for Android Native developement
+* Vue.js for web developement 
+
+### Backend
+* Firebase (All product)
+* MongoDB,  Node.js, Express for fast best of class API developement
+* SQL for database (Focusing on Azure SQL)
+
+## Working on more projects privately. Disclosed per request(Might need to sign an NDA).
 
 ### [Android Basics Nanodegree projects(Schorlarship by Google/Udacity)](https://confirm.udacity.com/3XDREDPM)
 
@@ -175,7 +185,7 @@ ScreenShot 01 | ScreenShot 02| ScreenShot 03
 
 #
 
-> Made by 2ms
+> Made with lots of love by Innocent Dema
 
 
 
