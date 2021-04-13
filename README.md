@@ -1,2 +1,2 @@
-# Innocent-Dema-Angwandia
-My Android Development OverView
+# Innocent-Dema-Angwandia's developer profil
+
