@@ -1,4 +1,4 @@
-## Welcome to Innocent Dema's homepage!
+## Welcome to Innocent Dema's developer profile!
 
 
 ## Tech Stack
