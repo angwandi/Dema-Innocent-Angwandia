@@ -3,22 +3,33 @@
 
 ## Tech Stack
 ### Frontend:
-* Flutter for Android and iOS (All flutter supported plarforms)
+* Flutter (https://myjiji-client.web.app/)
 * Android for Android Native developement
-* Vue.js for web developement 
-
-### Backend
-* Firebase (All product)
-* MongoDB,  Node.js, Express for fast best of class API developement
-* SQL for database (Focusing on Azure SQL)
-
-## Working on more projects privately. Disclosed per request(Might need to sign an NDA).
 
 ### [Android Basics Nanodegree projects(Schorlarship by Google/Udacity)](https://confirm.udacity.com/3XDREDPM)
 
 All these projects have been reviewed by Google/Udacity Android Apps Professionals.
 
 #
+
+### 1. Project 09 & 10 : [Client Apps](https://github.com/angwandi/myjiji_client) 
+
+## Demos:
+
+ [Client App](https://github.com/angwandi/myjiji_client) 
+ 
+ [Organizer Apps](https://github.com/angwandi/myjiji_client) 
+
+#### Actively Working on: 
+* State management : Riverpod
+* Firebase Backend
+* Create Event :  [Organizer App](https://github.com/angwandi/myjiji_client) 
+* Display event instantly on the client app using Streams 
+* Search events
+* Category of events
+* Demo payment with Stripe
+* All platforms
+
 
 ### 1. Project 07 & 08 : [Inventory App (Database)](https://github.com/angwandi/Books) 
 
