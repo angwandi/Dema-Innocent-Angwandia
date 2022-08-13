@@ -2,15 +2,10 @@
 
 
 ## Tech Stack
-### Frontend:
-* Flutter (https://myjiji-client.web.app/)
-* Android for Android Native developement
 
-### [Android Basics Nanodegree projects(Schorlarship by Google/Udacity)](https://confirm.udacity.com/3XDREDPM)
-
-All these projects have been reviewed by Google/Udacity Android Apps Professionals.
-
-#
+------------------------------------------------------------------------------------------------------------
+* Flutter 
+------------------------------------------------------------------------------------------------------------
 
 ### 1. Project 09 & 10 : [Client Apps](https://github.com/angwandi/myjiji_client) 
 
@@ -29,6 +24,14 @@ All these projects have been reviewed by Google/Udacity Android Apps Professiona
 * Category of events
 * Demo payment with Stripe
 * All platforms
+
+--------------------------------------------------------------------------------------------------------------
+* Android for Android Native developement
+--------------------------------------------------------------------------------------------------------------
+
+### [Android Basics Nanodegree projects(Schorlarship by Google/Udacity)](https://confirm.udacity.com/3XDREDPM)
+
+All these projects have been reviewed by Google/Udacity Android Apps Professionals.
 
 
 ### 1. Project 07 & 08 : [Inventory App (Database)](https://github.com/angwandi/Books) 
