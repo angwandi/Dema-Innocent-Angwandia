@@ -11,9 +11,9 @@
 
 ## Demos:
 
- [Client App](https://github.com/angwandi/myjiji_client) 
+ [Client App](https://myjiji-client.web.app/) 
  
- [Organizer Apps](https://github.com/angwandi/myjiji_client) 
+ [Organizer Apps](https://organizer-myjiji.web.app/#/) 
 
 #### Actively Working on: 
 * State management : Riverpod
